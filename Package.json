@@ -1,0 +1,14 @@
+{
+    "name": "soulcas-bos-altyapi",
+    "version": "1.0.0",
+    "description": "Boş Altyapı",
+    "main": "Soulcas.js",
+    "scripts": {
+      "test": "node Soulcas.js"
+    },
+    "author": "Soulcas",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^12.5.3"
+    }
+  }

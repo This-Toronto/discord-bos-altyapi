@@ -1,12 +1,12 @@
 {
-    "name": "soulcas-bos-altyapi",
+    "name": "thales-bos-altyapi",
     "version": "1.0.0",
     "description": "Boş Altyapı",
-    "main": "Soulcas.js",
+    "main": "Thales.js",
     "scripts": {
-      "test": "node Soulcas.js"
+      "test": "node Thales.js"
     },
-    "author": "Soulcas",
+    "author": "Thales",
     "license": "MIT",
     "dependencies": {
       "discord.js": "^12.5.3"

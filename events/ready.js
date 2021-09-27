@@ -3,6 +3,6 @@ const ayarlar = require('../ayarlar.json');
 
 module.exports = async client => {
 
-  client.user.setPresence({ activity: { type: "PLAYING", name: `Soulcas Boş Altyapı`}, status: 'idle' })
+  client.user.setPresence({ activity: { type: "PLAYING", name: `Thales Boş Altyapı`}, status: 'idle' })
 
 };

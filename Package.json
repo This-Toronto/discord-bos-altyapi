@@ -1,12 +1,12 @@
 {
-    "name": "thales-bos-altyapi",
+    "name": "toronto-bos-altyapi",
     "version": "1.0.0",
     "description": "Boş Altyapı",
-    "main": "Thales.js",
+    "main": "Toronto.js",
     "scripts": {
-      "test": "node Thales.js"
+      "test": "node Toronto.js"
     },
-    "author": "Thales",
+    "author": "Toronto",
     "license": "MIT",
     "dependencies": {
       "discord.js": "^12.5.3"
